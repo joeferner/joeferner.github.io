@@ -9,7 +9,7 @@ title:               "Joe Ferner: Blog"
 tagline:             "Joe Ferner's Blog"
 url:                 "http://joeferner.github.io/"
 paginate:            1
-baseurl:             "http://joeferner.github.io/"
+baseurl:             ""
 
 # Assets
 #
