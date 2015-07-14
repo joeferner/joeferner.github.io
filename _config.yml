@@ -6,7 +6,7 @@ relative_permalinks: true
 
 # Setup
 title:               "Joe Ferner: Blog"
-tagline:             "Joe Ferner's Blog"
+tagline:             ""
 url:                 "http://joeferner.github.io/"
 paginate:            1
 baseurl:             ""
