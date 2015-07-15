@@ -10,6 +10,7 @@ tagline:             "Blog"
 url:                 "http://joeferner.github.io/"
 paginate:            1
 baseurl:             ""
+disqusid:            "joeferner"
 
 # Assets
 #
