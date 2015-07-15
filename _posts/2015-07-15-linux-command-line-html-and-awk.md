@@ -1,6 +1,11 @@
 ---
 layout: post
 title: "Linux Command Line: Parsing HTML with w3m and awk"
+tags:
+  - linux
+  - html
+  - w3m
+  - awk
 ---
 
 I needed to generate some fake data to simulate transactions. I wanted some valid merchant names

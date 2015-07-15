@@ -5,8 +5,8 @@ permalink:           pretty
 relative_permalinks: true
 
 # Setup
-title:               "Joe Ferner: Blog"
-tagline:             ""
+title:               "Joe Ferner"
+tagline:             "Blog"
 url:                 "http://joeferner.github.io/"
 paginate:            1
 baseurl:             ""

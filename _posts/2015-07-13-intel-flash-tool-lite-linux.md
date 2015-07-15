@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Running Intel's flash tool lite for Edison in non-Debian Linux
+title: "Running Intel's flash tool lite for Edison in non-Debian Linux"
 ---
 
 I used to run Ubuntu but I have since moved on to Arch Linix. Unfortunatly people still distribute
