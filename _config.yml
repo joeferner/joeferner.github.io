@@ -1,8 +1,6 @@
 # Permalinks
 #
-# Use of `relative_permalinks` ensures post links from the index work properly.
 permalink:           pretty
-relative_permalinks: true
 
 # Setup
 title:               "Joe Ferner"
@@ -11,6 +9,8 @@ url:                 "http://joeferner.github.io/"
 paginate:            1
 baseurl:             ""
 disqusid:            "joeferner"
+
+gems:                [jekyll-paginate]
 
 # Assets
 #
