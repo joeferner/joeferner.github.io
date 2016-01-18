@@ -60,6 +60,8 @@ void sleep_us(uint32_t us) {
 }
 {% endhighlight %}
 
-You can run `make help` for other options.
+After you plug your Nucleo board in, run `make write`. You should now see the green LED flash.
+
+To get additional help run `make help`.
 
 You can find the example project and Makefile [here](https://github.com/joeferner/stm32-makefile).
