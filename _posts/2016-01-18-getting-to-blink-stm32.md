@@ -6,7 +6,7 @@ tags:
   - STM32CubeMX
 ---
 
-Prerequisites
+## Prerequisites
 
 * [Install STM32CubeMX](http://joeferner.github.io/2014/07/03/stm32cubemx-linux/)
 * Install arm-none-eabi-gcc
