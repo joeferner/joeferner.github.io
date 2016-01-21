@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Getting to Blick on a STM32 Nucleo F103RB using STM32CubeMX, Make and GCC"
+title: "Getting to Blink on a STM32 Nucleo F103RB using STM32CubeMX, Make and GCC"
 tags:
   - stm32
   - STM32CubeMX
